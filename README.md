@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Shatakshita:
 I am a student with a strong foundation in Python programming and a keen interest in logical problem-solving and structured software development. <br>My work focuses on building clear, functional programs involving file handling, data structures, and basic database connectivity.<br><br>I value writing clean, readable code and enjoy understanding concepts deeply rather than relying on surface-level solutions. <br>Through continuous practice and hands-on projects, I am steadily developing my technical skills and programming discipline.
 
 
