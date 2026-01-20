@@ -1,6 +1,8 @@
 # Hi, I'm Shatakshita :
 I am a student with a strong foundation in Python programming and a keen interest in logical problem-solving and structured software development.<br>My work focuses on building clear, functional programs involving file handling, data structures, and basic database connectivity.<br><br>I value writing clean, readable code and enjoy understanding concepts deeply rather than relying on surface-level solutions.<br>Through continuous practice and hands-on projects, I am steadily developing my technical skills and programming discipline.<br><br>
 
+## Portfolio : https://shatakshita.github.io/
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/moonvity_._.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shattswrites) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshitashekhar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shekhar.shatakshita@gmail.com) 
